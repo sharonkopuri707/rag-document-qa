@@ -27,7 +27,7 @@ An advanced AI-powered document chatbot using **Retrieval Augmented Generation (
 - FAISS vector similarity search
 - Context-aware answers from any PDF
 - Fast inference via Groq API
-- No API key needed — just upload and ask
+- No API key needed 
 
 ## 💻 How to Run Locally
 ```bash
